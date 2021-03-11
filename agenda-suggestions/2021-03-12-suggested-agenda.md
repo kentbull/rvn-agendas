@@ -11,6 +11,6 @@
     - Should we fund someone a modest amount to go through the Discord helpdesk and put together & maintain an organized FAQ for noobs?
     - Should we fund someone a modest amount to keep Raven.wiki updated? Who owns that?
 1. Transaction malleability. How do we correct? Be good to discuss options, or setup a special interest group around this.
-1. Status on P003
-1. Status on P004
+1. Status on P003 (currently an issue here: https://github.com/RavencoinFoundation/ravencoinfoundation.github.io/issues)
+1. Status on P004 (currently an issue here: https://github.com/RavencoinFoundation/ravencoinfoundation.github.io/issues)
 1. Add your item here! Send a PR
