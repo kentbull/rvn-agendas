@@ -10,4 +10,5 @@
    - Can someone put together a list of all the major Ravencoin-related websites & github accounts and who owns them or has control? What about social media accounts (Discord, Telegram, Reddit, etc) and who owns, controls, moderates them? Pst them on the Foundation website. The point of the exercise is transparency, not to gain control.
     - Should we fund someone a modest amount to go through the Discord helpdesk and put together & maintain an organized FAQ for noobs?
     - Should we fund someone a modest amount to keep Raven.wiki updated? Who owns that?
-
+1. Transaction malleability. How do we correct? Be good to discuss options, or setup a special interest group around this.
+1. Add your item here! Send a PR
