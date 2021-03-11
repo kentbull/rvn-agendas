@@ -13,4 +13,5 @@
 1. Transaction malleability. How do we correct? Be good to discuss options, or setup a special interest group around this.
 1. Status on P003 (currently an issue here: https://github.com/RavencoinFoundation/ravencoinfoundation.github.io/issues)
 1. Status on P004 (currently an issue here: https://github.com/RavencoinFoundation/ravencoinfoundation.github.io/issues)
+1. A fully flushed docs for ravencoin would be great, started converting the filecoin docs one.  Help is appreciated as there are only so many minutes in the day (https://github.com/corviato1/ravencoin-docs) 
 1. Add your item here! Send a PR
