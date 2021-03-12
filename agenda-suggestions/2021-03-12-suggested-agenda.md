@@ -3,7 +3,10 @@
 ## Agenda Items
 1. Code merging process
 1. Status update on P001 - P2SH
+    - Kudelski Security discussion
+    - Security Code and legal funds discussion
 1. Hardware Wallet Integration - P002
+1. Spatial.io Meetup/AMA at 3:00pm
 1. Please have a look at https://hans-schmidt.github.io/mastering_ravencoin/opinions/Thoughts_about_moving_forward.html. 
    - Are there developers interested in setting up SIGs? The Electrum SIG has already been set up and started working on forming a workable Electrum base the works for RVN.
    - Which non-code things should the Foundation control and spend money on? Seeds? Websites?
