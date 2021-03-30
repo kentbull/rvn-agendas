@@ -15,23 +15,23 @@
 1. @Vincent posted an article on Medium laying out the details and discussion points regarding asset creation cost (burn rate).
 
 ### Latest Pull Request updates: 3-28-21
-1. 906 - Update QT library to more current version
-    6.X+ as a possibility with onboarding phase
-        Opened: 3-26-21
-1. 904 - Fix build pipeline
-    Relates to #902 and includes #896
-        Complete: Awaiting 1 approval
-1. 898 - Better max values on quantity spinboxes for asset creation
-    Relates to #830 and #871
+1. 906 - Update QT library to more current version.
+    6.X+ as a possibility with onboarding phase.
+        Opened: 3-26-21.
+1. 904 - Fix build pipeline.
+    Relates to #902 and includes #896.
+        Complete: Awaiting 1 approval.
+1. 898 - Better max values on quantity spinboxes for asset creation.
+    Relates to #830 and #871.
         Open: 
-1. 897 - Custom ipfs URL
-    Relates to #901
+1. 897 - Custom ipfs URL.
+    Relates to #901.
         Open: 
-1. 896 - Update Julian time beyond Dec 2020
-    Code complete
-        Complete: Awaiting 2 approvals
-1. 894 - Add combobox to QT header for price unit
-    Adding "save" to settings
+1. 896 - Update Julian time beyond Dec 2020.
+    Code complete.
+        Complete: Awaiting 2 approvals.
+1. 894 - Add combobox to QT header for price unit.
+    Adding "save" to settings.
         Open: 
 1. 880 - Add sweep capability
     In progress
